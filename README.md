@@ -1,4 +1,4 @@
-# DavaAI-
+# DavaAI
 DavaAI is an AI-driven mobile application designed to revolutionize the way pharmacy professionals and students access and manage information related to FDA-approved drugs
 # Core Features
 Comprehensive Data Access: Direct access to the FDA drug labels dataset, with plans to incorporate the FDA adverse reactions dataset for a fuller data spectrum.
